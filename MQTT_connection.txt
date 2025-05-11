@@ -1,0 +1,6 @@
+curl -F "value=This" -H "X-AIO-Key: YOUR_KEY" https://io.adafruit.com/api/v2/JmarquesGarcia/feeds/p5-rde/data
+curl -F "value=is" -H "X-AIO-Key: YOUR_KEY" https://io.adafruit.com/api/v2/JmarquesGarcia/feeds/p5-rde/data
+curl -F "value=a" -H "X-AIO-Key: YOUR_KEY" https://io.adafruit.com/api/v2/JmarquesGarcia/feeds/p5-rde/data
+curl -F "value=proof" -H "X-AIO-Key: YOUR_KEY" https://io.adafruit.com/api/v2/JmarquesGarcia/feeds/p5-rde/data
+curl -F "value=of" -H "X-AIO-Key: YOUR_KEY" https://io.adafruit.com/api/v2/JmarquesGarcia/feeds/p5-rde/data
+curl -F "value=subscription" -H "X-AIO-Key: YOUR_KEY" https://io.adafruit.com/api/v2/JmarquesGarcia/feeds/p5-rde/data
